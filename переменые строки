@@ -1,0 +1,10 @@
+heiio = 12
+
+son = 1.5
+
+name = "Python"
+
+time = son / heiio
+
+print("Курс:", name, "всего задач:", heiio, "затрачено часов:", son,
+      "среднее время выполнения", time)
