@@ -1,4 +1,4 @@
-my_dict = {'Aleksei': 1975, 'Egor': 1999, 'Valeria': 2002}
+my_dict  = {'Aleksei': 1975, 'Egor': 1999, 'Valeria': 2002}
 print("Dict:", my_dict)
 print("Existing value:", my_dict["Aleksei"])
 print(my_dict.get("Dasha", "Not existing value: None"))
